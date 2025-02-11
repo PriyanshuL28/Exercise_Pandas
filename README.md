@@ -1,0 +1,2 @@
+# Project_Pandas
+A Pandas exercise demonstrating the loading, cleaning and reorganization of data in .xlsx or .csv files, descriptive statistics, data visualization, statistical approximation of data with the normal distribution, etc. Libraries include Pandas, NumPy, Scipy, SymPy, MatplotLib. Associated .csv and .xlsx files are not pushed due to large file size, but the Jupyter Notebook is written in inline mode and therefore displays results. All comments are in English.
